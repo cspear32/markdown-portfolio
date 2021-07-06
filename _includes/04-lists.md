@@ -1,0 +1,3 @@
+- baseball
+- friends
+- video games 
