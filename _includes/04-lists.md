@@ -1,3 +1,3 @@
 - baseball
-- girlfriend 
+- friends
 - video games 
